@@ -1,7 +1,3 @@
-ifdef::env-github[]
-:imagesdir: images/
-endif::[]
-
 = Setup a layered architecture for your project
 
 == Introduction
