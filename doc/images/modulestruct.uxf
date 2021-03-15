@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>410</x>
+      <y>320</y>
+      <w>140</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>symbol=component
+
+/persistence/
+bg=green
+transparency=80
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>760</x>
+      <y>250</y>
+      <w>140</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>symbol=component
+
+{creator}
+assembler
+bg=cyan
+transparency=70
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>30</x>
+      <y>100</y>
+      <w>220</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>symbol=component
+
+/businessentities_api/
+bg=green
+transparency=80
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>410</x>
+      <y>230</y>
+      <w>140</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>symbol=component
+
+businesslogic
+bg=yellow
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>410</x>
+      <y>10</y>
+      <w>140</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>symbol=component
+
+/frontend/
+bg=green
+transparency=80
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>250</y>
+      <w>240</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+fg=blue
+4
+lw=2
+</panel_attributes>
+    <additional_attributes>10.0;10.0;50.0;10.0;100.0;30.0;220.0;30.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>30</y>
+      <w>240</w>
+      <h>250</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+fg=#008800
+lw=2
+</panel_attributes>
+    <additional_attributes>10.0;10.0;60.0;10.0;140.0;230.0;220.0;230.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>290</y>
+      <w>240</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+fg=#008800
+lw=2
+</panel_attributes>
+    <additional_attributes>10.0;40.0;70.0;40.0;110.0;10.0;220.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>240</x>
+      <y>230</y>
+      <w>540</w>
+      <h>340</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+fg=#008800
+lw=2
+
+</panel_attributes>
+    <additional_attributes>10.0;10.0;40.0;10.0;90.0;310.0;390.0;310.0;450.0;110.0;520.0;110.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>240</x>
+      <y>190</y>
+      <w>190</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+fg=#008800
+lw=2</panel_attributes>
+    <additional_attributes>10.0;10.0;70.0;10.0;100.0;90.0;170.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>350</x>
+      <y>290</y>
+      <w>80</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+fg=#008800
+lw=2
+</panel_attributes>
+    <additional_attributes>60.0;70.0;10.0;70.0;10.0;10.0;60.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>410</x>
+      <y>440</y>
+      <w>140</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>symbol=component
+
+persistenceimpl
+bg=pink
+transparency=60
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>470</x>
+      <y>390</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.
+realizes ^</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>240</x>
+      <y>20</y>
+      <w>190</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+fg=#008800
+lw=2
+</panel_attributes>
+    <additional_attributes>10.0;160.0;50.0;160.0;110.0;10.0;170.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>410</x>
+      <y>130</y>
+      <w>140</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>symbol=component
+
+fxfrontend
+bg=pink
+transparency=60
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>470</x>
+      <y>80</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.
+realizes ^</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>160</y>
+      <w>240</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+fg=blue
+3
+lw=2
+</panel_attributes>
+    <additional_attributes>10.0;10.0;60.0;10.0;110.0;110.0;220.0;110.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>310</y>
+      <w>240</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+2
+fg=blue
+lw=2
+</panel_attributes>
+    <additional_attributes>10.0;150.0;70.0;150.0;140.0;10.0;220.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>240</x>
+      <y>210</y>
+      <w>190</w>
+      <h>270</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+fg=#008800
+lw=2
+</panel_attributes>
+    <additional_attributes>10.0;10.0;60.0;10.0;120.0;250.0;170.0;250.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>30</x>
+      <y>290</y>
+      <w>220</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>symbol=component
+
+businessentities_impl
+bg=pink
+transparency=60
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>130</x>
+      <y>240</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.
+realizes ^</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>240</x>
+      <y>330</y>
+      <w>540</w>
+      <h>280</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+1
+fg=blue
+lw=2
+</panel_attributes>
+    <additional_attributes>10.0;10.0;40.0;10.0;80.0;250.0;440.0;250.0;450.0;50.0;520.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>80</x>
+      <y>150</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Name</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>100</x>
+      <y>180</y>
+      <w>70</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>*/Factory/*
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>350</x>
+      <y>40</y>
+      <w>80</w>
+      <h>240</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>60.0;10.0;10.0;10.0;10.0;220.0;60.0;220.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>370</x>
+      <y>70</y>
+      <w>60</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;</panel_attributes>
+    <additional_attributes>40.0;10.0;10.0;10.0;10.0;170.0;40.0;170.0</additional_attributes>
+  </element>
+</diagram>
