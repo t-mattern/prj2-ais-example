@@ -1,2 +1,2 @@
-# prj2-ais-example
+# Project 2 
 Airport Information System Example project
