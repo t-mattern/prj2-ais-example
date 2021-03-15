@@ -1,2 +1,5 @@
 # Project 2 
+
 Airport Information System Example project
+
+See link:doc/SetupLayeredArchitecture.adoc[Setup Layered Architecture] for documentation.
