@@ -127,7 +127,7 @@ projects that we'll create on the fly. Within this project you can create so-cal
 
 * All sub projects (Maven modules) will have this project as parent and inherit general settings. Open the
 POM file of your AIS-project and set the sebi-pom as its parent-pom. All libraries that are accessible via
-the sebi-pom will from now be available in all future sub projects. TODO: include pom-example.  
+the sebi-pom will from now be available in all future sub projects.  
 * Your complete software including all its modules can now be build with one single Maven command, with
 additional benefit that Maven will take care of the proper build-order (in case of dependencies).
 * All your sub projects will be created in sub folders of this AIS-project, avoiding having projects defined
@@ -247,10 +247,10 @@ this parameter (see next step).
 This seems to be a fairly easy step. The JavaFX Application class can be constructed from the Assembler directly. There is 
 a trap / pitfall here however. Although the Application class can be instantiated by ourselves, the Controller class 
 behind each window is instantiated automatically by the FXMLLoader (the controller class is identified in the fxml-file);
-this can only be done automatically when the Controller class has a default constructor. This is, by default, not the case.
+this can only be done automatically when the Controller class has a default constructor. This is, by default, the case.
 We need a parameterized constructor however, to be able to pass the BusinessLogicAPI implementation to the controller. 
 What we need to do is to provide the FXMLLoader with a separate 'controller factory'. This controller factory can create
-an instance of a controller class with a non-default constructor.
+an instance of a controller class with a non-default constructor. The FXMLLoader has a setControllerFactory(...) method.  
 --
 +
 
