@@ -159,7 +159,7 @@ bg=green</panel_attributes>
       <w>180</w>
       <h>590</h>
     </coordinates>
-    <panel_attributes>BusinessLogicAPI
+    <panel_attributes>BusinessEntitiesAPI
 </panel_attributes>
     <additional_attributes/>
   </element>
