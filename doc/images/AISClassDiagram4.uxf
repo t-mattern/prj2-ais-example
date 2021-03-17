@@ -159,7 +159,7 @@ bg=green</panel_attributes>
       <w>180</w>
       <h>590</h>
     </coordinates>
-    <panel_attributes>BusinessLogicAPI
+    <panel_attributes>BusinessEntitiesAPI
 </panel_attributes>
     <additional_attributes/>
   </element>
@@ -538,14 +538,14 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>80</x>
+      <x>90</x>
       <y>180</y>
-      <w>180</w>
+      <w>170</w>
       <h>170</h>
     </coordinates>
     <panel_attributes>lt=.&gt;
 m2=&lt;&lt;gets Persistence&gt;&gt;</panel_attributes>
-    <additional_attributes>50.0;10.0;50.0;140.0;160.0;140.0</additional_attributes>
+    <additional_attributes>40.0;10.0;40.0;140.0;150.0;140.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>

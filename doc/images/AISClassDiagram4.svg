@@ -78,7 +78,7 @@
       ><path d="M0 0 L0 60 L30 60 L30 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath25"
-      ><path d="M0 0 L0 170 L180 170 L180 0 Z"
+      ><path d="M0 0 L0 170 L170 170 L170 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath26"
       ><path d="M0 0 L0 50 L30 50 L30 0 Z"
@@ -140,7 +140,7 @@
     /></g
     ><g transform="translate(740,170)"
     ><rect fill="none" x="0.5" width="208.5" height="38.5" y="0.5" clip-path="url(#clipPath2)"
-      /><text x="2" font-size="14px" y="18.1094" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="7" font-size="14px" y="17.8174" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >CustomerStorageServiceImpl</text
     ></g
     ><g fill="rgb(0,255,0)" fill-opacity="0.4902" transform="translate(630,100)" stroke-opacity="0.4902" stroke="rgb(0,255,0)"
@@ -148,9 +148,9 @@
     /></g
     ><g transform="translate(630,100)"
     ><rect fill="none" x="0.5" width="188.5" height="38.5" y="0.5" clip-path="url(#clipPath3)"
-      /><text x="55" font-size="14px" y="18.1094" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="57" font-size="14px" y="17.8174" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >«interface»</text
-      ><text x="7" font-size="14px" y="34.2188" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="12" font-size="14px" y="33.6348" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >CustomerStorageService</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(240,370)" stroke-opacity="0" stroke="rgb(255,255,255)"
@@ -158,7 +158,7 @@
     /></g
     ><g transform="translate(240,370)"
     ><rect fill="none" x="0.5" width="308.5" height="38.5" y="0.5" clip-path="url(#clipPath4)"
-      /><text x="88" font-size="14px" y="18.1094" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="91" font-size="14px" y="17.8174" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >PersistenceAPIImpl</text
     ></g
     ><g fill="rgb(0,255,0)" fill-opacity="0.4902" transform="translate(240,300)" stroke-opacity="0.4902" stroke="rgb(0,255,0)"
@@ -166,9 +166,9 @@
     /></g
     ><g transform="translate(240,300)"
     ><rect fill="none" x="0.5" width="308.5" height="38.5" y="0.5" clip-path="url(#clipPath4)"
-      /><text x="115" font-size="14px" y="18.1094" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="117" font-size="14px" y="17.8174" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >«interface»</text
-      ><text x="30" font-size="14px" y="34.2188" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="35" font-size="14px" y="33.6348" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >PersistenceImplementationProvider</text
     ></g
     ><g fill="rgb(0,255,0)" fill-opacity="0.4902" transform="translate(240,230)" stroke-opacity="0.4902" stroke="rgb(0,255,0)"
@@ -176,18 +176,18 @@
     /></g
     ><g transform="translate(240,230)"
     ><rect fill="none" x="0.5" width="778.5" height="48.5" y="0.5" clip-path="url(#clipPath5)"
-      /><text x="350" font-size="14px" y="18.1094" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="352" font-size="14px" y="17.8174" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >«interface»</text
-      ><text x="338" font-size="14px" y="34.2188" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="341" font-size="14px" y="33.6348" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >PersistenceAPI</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(230,70)" stroke-opacity="0" stroke="rgb(255,255,255)"
-    ><path d="M0.5 0.5 L324.5 0.5 L324.5 21.6094 L809 21.6094 L809 359 L0.5 359 Z" stroke="none" clip-path="url(#clipPath6)"
+    ><path d="M0.5 0.5 L324.5 0.5 L324.5 21.3174 L809 21.3174 L809 359 L0.5 359 Z" stroke="none" clip-path="url(#clipPath6)"
     /></g
     ><g transform="translate(230,70)"
-    ><path fill="none" d="M0.5 0.5 L324.5 0.5 L324.5 21.6094 L809 21.6094 L809 359 L0.5 359 Z" clip-path="url(#clipPath6)"
-      /><path fill="none" d="M0.5 21.6094 L324.5 21.6094" clip-path="url(#clipPath6)"
-      /><text x="5" font-size="14px" y="16.1094" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+    ><path fill="none" d="M0.5 0.5 L324.5 0.5 L324.5 21.3174 L809 21.3174 L809 359 L0.5 359 Z" clip-path="url(#clipPath6)"
+      /><path fill="none" d="M0.5 21.3174 L324.5 21.3174" clip-path="url(#clipPath6)"
+      /><text x="5" font-size="14px" y="15.8174" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >Persistence</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(240,730)" stroke-opacity="0" stroke="rgb(255,255,255)"
@@ -195,7 +195,7 @@
     /></g
     ><g transform="translate(240,730)"
     ><rect fill="none" x="0.5" width="308.5" height="38.5" y="0.5" clip-path="url(#clipPath4)"
-      /><text x="79" font-size="14px" y="18.1094" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="81" font-size="14px" y="17.8174" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >BusinessLogicAPIImpl</text
     ></g
     ><g fill="rgb(0,255,0)" fill-opacity="0.4902" transform="translate(240,660)" stroke-opacity="0.4902" stroke="rgb(0,255,0)"
@@ -203,9 +203,9 @@
     /></g
     ><g transform="translate(240,660)"
     ><rect fill="none" x="0.5" width="308.5" height="38.5" y="0.5" clip-path="url(#clipPath4)"
-      /><text x="115" font-size="14px" y="18.1094" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="117" font-size="14px" y="17.8174" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >«interface»</text
-      ><text x="21" font-size="14px" y="34.2188" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="26" font-size="14px" y="33.6348" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >BusinessLogicImplementationProvider</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(60,160)" stroke-opacity="0" stroke="rgb(255,255,255)"
@@ -213,16 +213,16 @@
     /></g
     ><g transform="translate(60,160)"
     ><rect fill="none" x="0.5" width="98.5" height="28.5" y="0.5" clip-path="url(#clipPath7)"
-      /><text x="33" font-size="14px" y="18.1094" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="33" font-size="14px" y="17.8174" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >Main</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(50,120)" stroke-opacity="0" stroke="rgb(255,255,255)"
-    ><path d="M0.5 0.5 L84.0615 0.5 L84.0615 21.6094 L139 21.6094 L139 759 L0.5 759 Z" stroke="none" clip-path="url(#clipPath8)"
+    ><path d="M0.5 0.5 L81.6895 0.5 L81.6895 21.3174 L139 21.3174 L139 759 L0.5 759 Z" stroke="none" clip-path="url(#clipPath8)"
     /></g
     ><g transform="translate(50,120)"
-    ><path fill="none" d="M0.5 0.5 L84.0615 0.5 L84.0615 21.6094 L139 21.6094 L139 759 L0.5 759 Z" clip-path="url(#clipPath8)"
-      /><path fill="none" d="M0.5 21.6094 L84.0615 21.6094" clip-path="url(#clipPath8)"
-      /><text x="5" font-size="14px" y="16.1094" clip-path="url(#clipPath8)" font-family="sans-serif" stroke="none" xml:space="preserve"
+    ><path fill="none" d="M0.5 0.5 L81.6895 0.5 L81.6895 21.3174 L139 21.3174 L139 759 L0.5 759 Z" clip-path="url(#clipPath8)"
+      /><path fill="none" d="M0.5 21.3174 L81.6895 21.3174" clip-path="url(#clipPath8)"
+      /><text x="5" font-size="14px" y="15.8174" clip-path="url(#clipPath8)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >Assembler</text
     ></g
     ><g fill="rgb(0,255,0)" fill-opacity="0.4902" transform="translate(1140,450)" stroke-opacity="0.4902" stroke="rgb(0,255,0)"
@@ -230,9 +230,9 @@
     /></g
     ><g transform="translate(1140,450)"
     ><rect fill="none" x="0.5" width="148.5" height="38.5" y="0.5" clip-path="url(#clipPath9)"
-      /><text x="35" font-size="14px" y="18.1094" clip-path="url(#clipPath9)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="37" font-size="14px" y="17.8174" clip-path="url(#clipPath9)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >«interface»</text
-      ><text x="40" font-size="14px" y="34.2188" clip-path="url(#clipPath9)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="42" font-size="14px" y="33.6348" clip-path="url(#clipPath9)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >Customer</text
     ></g
     ><g fill="rgb(0,255,0)" fill-opacity="0.4902" transform="translate(1140,300)" stroke-opacity="0.4902" stroke="rgb(0,255,0)"
@@ -240,28 +240,28 @@
     /></g
     ><g transform="translate(1140,300)"
     ><rect fill="none" x="0.5" width="148.5" height="78.5" y="0.5" clip-path="url(#clipPath10)"
-      /><text x="35" font-size="14px" y="18.1094" clip-path="url(#clipPath10)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="37" font-size="14px" y="17.8174" clip-path="url(#clipPath10)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >«interface»</text
-      ><text x="10" font-size="14px" y="34.2188" clip-path="url(#clipPath10)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="12" font-size="14px" y="33.6348" clip-path="url(#clipPath10)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >CustomerManager</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(1120,220)" stroke-opacity="0" stroke="rgb(255,255,255)"
-    ><path d="M0.5 0.5 L131.2227 0.5 L131.2227 37.7188 L179 37.7188 L179 589 L0.5 589 Z" stroke="none" clip-path="url(#clipPath11)"
+    ><path d="M0.5 0.5 L140.3965 0.5 L140.3965 37.1348 L179 37.1348 L179 589 L0.5 589 Z" stroke="none" clip-path="url(#clipPath11)"
     /></g
     ><g transform="translate(1120,220)"
-    ><path fill="none" d="M0.5 0.5 L131.2227 0.5 L131.2227 37.7188 L179 37.7188 L179 589 L0.5 589 Z" clip-path="url(#clipPath11)"
-      /><path fill="none" d="M0.5 37.7188 L131.2227 37.7188" clip-path="url(#clipPath11)"
-      /><text x="5" font-size="14px" y="16.1094" clip-path="url(#clipPath11)" font-family="sans-serif" stroke="none" xml:space="preserve"
-      >BusinessLogicAPI</text
+    ><path fill="none" d="M0.5 0.5 L140.3965 0.5 L140.3965 37.1348 L179 37.1348 L179 589 L0.5 589 Z" clip-path="url(#clipPath11)"
+      /><path fill="none" d="M0.5 37.1348 L140.3965 37.1348" clip-path="url(#clipPath11)"
+      /><text x="5" font-size="14px" y="15.8174" clip-path="url(#clipPath11)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >BusinessEntitiesAPI</text
     ></g
     ><g fill="rgb(0,255,0)" fill-opacity="0.4902" transform="translate(240,590)" stroke-opacity="0.4902" stroke="rgb(0,255,0)"
     ><rect x="0.5" width="778.5" height="48.5" y="0.5" clip-path="url(#clipPath5)" stroke="none"
     /></g
     ><g transform="translate(240,590)"
     ><rect fill="none" x="0.5" width="778.5" height="48.5" y="0.5" clip-path="url(#clipPath5)"
-      /><text x="350" font-size="14px" y="18.1094" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="352" font-size="14px" y="17.8174" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >«interface»</text
-      ><text x="329" font-size="14px" y="34.2188" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="331" font-size="14px" y="33.6348" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >BusinessLogicAPI</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(880,840)" stroke-opacity="0" stroke="rgb(255,255,255)"
@@ -269,7 +269,7 @@
     /></g
     ><g transform="translate(880,840)"
     ><rect fill="none" x="0.5" width="148.5" height="28.5" y="0.5" clip-path="url(#clipPath12)"
-      /><text x="7" font-size="14px" y="18.1094" clip-path="url(#clipPath12)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="9" font-size="14px" y="17.8174" clip-path="url(#clipPath12)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >customerView.fxml</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(690,840)" stroke-opacity="0" stroke="rgb(255,255,255)"
@@ -277,7 +277,7 @@
     /></g
     ><g transform="translate(690,840)"
     ><rect fill="none" x="0.5" width="158.5" height="28.5" y="0.5" clip-path="url(#clipPath13)"
-      /><text x="11" font-size="14px" y="18.1094" clip-path="url(#clipPath13)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="12" font-size="14px" y="17.8174" clip-path="url(#clipPath13)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >CustomerController</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(530,840)" stroke-opacity="0" stroke="rgb(255,255,255)"
@@ -285,16 +285,16 @@
     /></g
     ><g transform="translate(530,840)"
     ><rect fill="none" x="0.5" width="98.5" height="28.5" y="0.5" clip-path="url(#clipPath7)"
-      /><text x="23" font-size="14px" y="18.1094" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="24" font-size="14px" y="17.8174" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >GUIApp</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(230,800)" stroke-opacity="0" stroke="rgb(255,255,255)"
-    ><path d="M0.5 0.5 L324.5 0.5 L324.5 21.6094 L809 21.6094 L809 79 L0.5 79 Z" stroke="none" clip-path="url(#clipPath14)"
+    ><path d="M0.5 0.5 L324.5 0.5 L324.5 21.3174 L809 21.3174 L809 79 L0.5 79 Z" stroke="none" clip-path="url(#clipPath14)"
     /></g
     ><g transform="translate(230,800)"
-    ><path fill="none" d="M0.5 0.5 L324.5 0.5 L324.5 21.6094 L809 21.6094 L809 79 L0.5 79 Z" clip-path="url(#clipPath14)"
-      /><path fill="none" d="M0.5 21.6094 L324.5 21.6094" clip-path="url(#clipPath14)"
-      /><text x="5" font-size="14px" y="16.1094" clip-path="url(#clipPath14)" font-family="sans-serif" stroke="none" xml:space="preserve"
+    ><path fill="none" d="M0.5 0.5 L324.5 0.5 L324.5 21.3174 L809 21.3174 L809 79 L0.5 79 Z" clip-path="url(#clipPath14)"
+      /><path fill="none" d="M0.5 21.3174 L324.5 21.3174" clip-path="url(#clipPath14)"
+      /><text x="5" font-size="14px" y="15.8174" clip-path="url(#clipPath14)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >GUI</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(600,540)" stroke-opacity="0" stroke="rgb(255,255,255)"
@@ -302,7 +302,7 @@
     /></g
     ><g transform="translate(600,540)"
     ><rect fill="none" x="0.5" width="178.5" height="28.5" y="0.5" clip-path="url(#clipPath15)"
-      /><text x="10" font-size="14px" y="18.1094" clip-path="url(#clipPath15)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="12" font-size="14px" y="17.8174" clip-path="url(#clipPath15)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >CustomerManagerImpl</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(890,540)" stroke-opacity="0" stroke="rgb(255,255,255)"
@@ -310,25 +310,25 @@
     /></g
     ><g transform="translate(890,540)"
     ><rect fill="none" x="0.5" width="128.5" height="28.5" y="0.5" clip-path="url(#clipPath16)"
-      /><text x="15" font-size="14px" y="18.1094" clip-path="url(#clipPath16)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="17" font-size="14px" y="17.8174" clip-path="url(#clipPath16)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >CustomerImpl</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(230,490)" stroke-opacity="0" stroke="rgb(255,255,255)"
-    ><path d="M0.5 0.5 L324.5 0.5 L324.5 37.7188 L809 37.7188 L809 289 L0.5 289 Z" stroke="none" clip-path="url(#clipPath17)"
+    ><path d="M0.5 0.5 L324.5 0.5 L324.5 37.1348 L809 37.1348 L809 289 L0.5 289 Z" stroke="none" clip-path="url(#clipPath17)"
     /></g
     ><g transform="translate(230,490)"
-    ><path fill="none" d="M0.5 0.5 L324.5 0.5 L324.5 37.7188 L809 37.7188 L809 289 L0.5 289 Z" clip-path="url(#clipPath17)"
-      /><path fill="none" d="M0.5 37.7188 L324.5 37.7188" clip-path="url(#clipPath17)"
-      /><text x="5" font-size="14px" y="16.1094" clip-path="url(#clipPath17)" font-family="sans-serif" stroke="none" xml:space="preserve"
+    ><path fill="none" d="M0.5 0.5 L324.5 0.5 L324.5 37.1348 L809 37.1348 L809 289 L0.5 289 Z" clip-path="url(#clipPath17)"
+      /><path fill="none" d="M0.5 37.1348 L324.5 37.1348" clip-path="url(#clipPath17)"
+      /><text x="5" font-size="14px" y="15.8174" clip-path="url(#clipPath17)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >BusinessLogic</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(20,40)" stroke-opacity="0" stroke="rgb(255,255,255)"
-    ><path d="M0.5 0.5 L536.5 0.5 L536.5 21.6094 L1339 21.6094 L1339 859 L0.5 859 Z" stroke="none" clip-path="url(#clipPath18)"
+    ><path d="M0.5 0.5 L536.5 0.5 L536.5 21.3174 L1339 21.3174 L1339 859 L0.5 859 Z" stroke="none" clip-path="url(#clipPath18)"
     /></g
     ><g transform="translate(20,40)"
-    ><path fill="none" d="M0.5 0.5 L536.5 0.5 L536.5 21.6094 L1339 21.6094 L1339 859 L0.5 859 Z" clip-path="url(#clipPath18)"
-      /><path fill="none" d="M0.5 21.6094 L536.5 21.6094" clip-path="url(#clipPath18)"
-      /><text x="5" font-size="14px" y="16.1094" clip-path="url(#clipPath18)" font-family="sans-serif" stroke="none" xml:space="preserve"
+    ><path fill="none" d="M0.5 0.5 L536.5 0.5 L536.5 21.3174 L1339 21.3174 L1339 859 L0.5 859 Z" clip-path="url(#clipPath18)"
+      /><path fill="none" d="M0.5 21.3174 L536.5 21.3174" clip-path="url(#clipPath18)"
+      /><text x="5" font-size="14px" y="15.8174" clip-path="url(#clipPath18)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >AirLine Information System</text
     ></g
     ><g stroke-dasharray="8,5" stroke-miterlimit="5" transform="translate(690,130)" stroke-linecap="butt"
@@ -363,13 +363,13 @@
       /><path fill="white" d="M4 22.2583 L10.5 11 L17 22.2583 Z" clip-path="url(#clipPath24)" stroke="none"
       /><path fill="none" stroke-miterlimit="10" stroke-dasharray="none" d="M4 22.2583 L10.5 11 L17 22.2583 Z" clip-path="url(#clipPath24)" stroke-linecap="square"
     /></g
-    ><g stroke-dasharray="8,5" stroke-miterlimit="5" transform="translate(80,180)" stroke-linecap="butt"
-    ><path fill="none" d="M50.5 10.5 L50.5 140.5" clip-path="url(#clipPath25)"
-      /><path fill="none" d="M50.5 140.5 L159.5 140.5" clip-path="url(#clipPath25)"
-      /><path fill="none" stroke-miterlimit="10" stroke-dasharray="none" d="M148.7417 147 L160 140.5 L148.7417 134" clip-path="url(#clipPath25)" stroke-linecap="square"
+    ><g stroke-dasharray="8,5" stroke-miterlimit="5" transform="translate(90,180)" stroke-linecap="butt"
+    ><path fill="none" d="M40.5 10.5 L40.5 140.5" clip-path="url(#clipPath25)"
+      /><path fill="none" d="M40.5 140.5 L149.5 140.5" clip-path="url(#clipPath25)"
+      /><path fill="none" stroke-miterlimit="10" stroke-dasharray="none" d="M138.7417 147 L150 140.5 L138.7417 134" clip-path="url(#clipPath25)" stroke-linecap="square"
     /></g
-    ><g font-family="sans-serif" font-size="14px" transform="translate(80,180)"
-    ><text x="7.5605" xml:space="preserve" y="154.1094" clip-path="url(#clipPath25)" stroke="none"
+    ><g font-family="sans-serif" font-size="14px" transform="translate(90,180)"
+    ><text x="5.7158" xml:space="preserve" y="153.8174" clip-path="url(#clipPath25)" stroke="none"
       >«gets Persistence»</text
     ></g
     ><g transform="translate(380,270)"
@@ -400,7 +400,7 @@
       /><path fill="none" stroke-miterlimit="10" stroke-dasharray="none" d="M438.7417 27 L450 20.5 L438.7417 14" clip-path="url(#clipPath31)" stroke-linecap="square"
     /></g
     ><g font-family="sans-serif" font-size="14px" transform="translate(80,830)"
-    ><text x="147.0493" xml:space="preserve" y="16" clip-path="url(#clipPath31)" stroke="none"
+    ><text x="150.9321" xml:space="preserve" y="16" clip-path="url(#clipPath31)" stroke="none"
       >«injects BusinessLogic»</text
     ></g
     ><g stroke-dasharray="8,5" stroke-miterlimit="5" transform="translate(80,180)" stroke-linecap="butt"
@@ -411,7 +411,7 @@
       /><path fill="none" stroke-miterlimit="10" stroke-dasharray="none" d="M128.7417 27 L140 20.5 L128.7417 14" clip-path="url(#clipPath33)" stroke-linecap="square"
     /></g
     ><g font-family="sans-serif" font-size="14px" transform="translate(100,660)"
-    ><text x="1.0488" xml:space="preserve" y="16" clip-path="url(#clipPath33)" stroke="none"
+    ><text x="5.1401" xml:space="preserve" y="16" clip-path="url(#clipPath33)" stroke="none"
       >«injects Persistence»</text
     ></g
     ><g stroke-dasharray="8,5" stroke-miterlimit="5" transform="translate(100,180)" stroke-linecap="butt"
