@@ -49,9 +49,10 @@ public class GUIApp extends Application {
         launch();
     }
     
-    public void startFrontEnd(BusinessLogicAPI api){
+    public GUIApp startFrontEnd(BusinessLogicAPI api){
         businessLogicAPI = api;
         launch();
+        return this;
     }
 
 }

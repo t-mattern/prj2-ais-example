@@ -1,23 +1,17 @@
 package fontys.frontend;
 
-import javafx.scene.Node;
+import businesslogic.BusinessLogicAPI;
 import javafx.scene.control.Button;
-import javafx.scene.control.Labeled;
 import javafx.scene.control.TextField;
-import javafx.scene.control.ToggleButton;
-import javafx.scene.input.KeyCode;
-import javafx.scene.input.MouseButton;
 import javafx.stage.Stage;
-import static org.assertj.core.api.Assertions.assertThat;
-import static org.assertj.core.api.Assertions.fail;
 import static org.assertj.core.api.Assumptions.assumeThat;
-import org.junit.jupiter.api.Disabled;
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestMethodOrder;
 import org.junit.jupiter.api.extension.ExtendWith;
-import org.junit.jupiter.params.ParameterizedTest;
-import org.junit.jupiter.params.provider.CsvSource;
+import org.mockito.Mock;
 import org.testfx.api.FxRobot;
 import org.testfx.framework.junit5.ApplicationExtension;
 import org.testfx.framework.junit5.Start;
@@ -45,10 +39,19 @@ public class GUIAppTest {
         }
     }
 
+    @Mock
+    BusinessLogicAPI bl;
+    GUIApp main;
+            
+    @BeforeEach
+    void setup(){
+        main= new GUIApp().startFrontEnd( bl );
+    }
     @Start
     void start( Stage stage ) throws Exception {
         this.stage = stage;
-        GUIApp main = new GUIApp();
+//        GUIApp main = new GUIApp();
+        
         main.start( stage );
     }
 
